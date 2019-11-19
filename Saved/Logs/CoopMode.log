@@ -816,3 +816,24 @@ Script call stack:
 [2019.11.19-19.54.10:251][ 87]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
 [2019.11.19-19.54.14:820][631]SourceControl: Source control is disabled
 [2019.11.19-19.54.14:820][631]LogSlate: Window 'Source Control Login' being destroyed
+[2019.11.19-19.59.26:075][761]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.19-19.59.27:820][928]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-19.59.27:945][941]LogSlate: Window 'CoopMode Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.19-19.59.27:955][941]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.19-19.59.27:955][941]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.11.19-19.59.27:955][941]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.19-19.59.27:961][941]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.19-19.59.27:961][941]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.19-19.59.28:007][941]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2019.11.19-19.59.28:267][942]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.11.19-19.59.32:222][181]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2019.11.19-19.59.32:226][181]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2019.11.19-19.59.32:228][181]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.11.19-19.59.32:246][181]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.11.19-19.59.32:292][181]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.11.19-19.59.32:343][181]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.19-19.59.32:343][181]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.11.19-19.59.35:039][498]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-19.59.35:199][509]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2019.11.19-19.59.35:430][509]LogSavePackage: Moving '../../../../../Programming/Coop-Repo/Saved/ThirdPersonExampleMap6F1C4A8545B03C67F58BA1BFF16E9316.tmp' to '../../../../../Programming/Coop-Repo/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.11.19-19.59.35:564][509]LogSavePackage: Moving '../../../../../Programming/Coop-Repo/Saved/ThirdPersonExampleMap_BuiltData59FF8EFA461D8E222960369746217B5F.tmp' to '../../../../../Programming/Coop-Repo/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
