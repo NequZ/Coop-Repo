@@ -587,3 +587,30 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.19-15.36.21:298][660]SourceControl: Path 'D:/Programming/Coop-Repo/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset' is not under client's root 'D:\Workspace'.
 
 [2019.11.19-15.36.21:452][660]LogSavePackage: Moving '../../../../../Programming/Coop-Repo/Saved/ThirdPersonExampleMap_BuiltData88E222B54407D9A88D55BA8553FA9CC5.tmp' to '../../../../../Programming/Coop-Repo/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.11.19-15.37.09:650][327]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Spielmodus.Spielmodus
+[2019.11.19-15.37.09:945][327]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0013 seconds. Added 121 classes and 0 folders.
+[2019.11.19-15.37.13:591][666]LogSlate: Window 'Spielmodus' being destroyed
+[2019.11.19-15.37.13:618][666]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.11.19-15.37.13:669][666]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Spielmodus.Spielmodus
+[2019.11.19-15.37.13:985][666]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.19-15.37.41:832][897]LogSourceControl: Attempting 'p4 fstat -Or D:/Programming/Coop-Repo/Content/Spielmodus.uasset'
+[2019.11.19-15.37.41:860][900]SourceControl: Path 'D:/Programming/Coop-Repo/Content/Spielmodus.uasset' is not under client's root 'D:\Workspace'.
+
+[2019.11.19-15.38.19:835][385]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.19-15.38.26:244][145]BlueprintLog: New page: Compile Spielmodus
+[2019.11.19-15.38.26:455][145]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2019.11.19-15.39.28:735][556]BlueprintLog: New page: Compile Spielmodus
+[2019.11.19-15.39.28:939][556]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2019.11.19-15.39.46:096][ 79]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.19-15.40.01:259][885]LogSourceControl: Attempting 'p4 fstat -Or D:/Programming/Coop-Repo/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.11.19-15.40.01:288][888]SourceControl: Path 'D:/Programming/Coop-Repo/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' is not under client's root 'D:\Workspace'.
+
+[2019.11.19-15.40.04:104][204]LogSourceControl: Attempting 'p4 fstat -Or D:/Programming/Coop-Repo/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.11.19-15.40.04:104][204]SourceControl: Path 'D:/Programming/Coop-Repo/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' is not under client's root 'D:\Workspace'.
+
+[2019.11.19-15.40.04:167][204]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2019.11.19-15.40.04:376][204]LogSavePackage: Moving '../../../../../Programming/Coop-Repo/Saved/ThirdPersonExampleMap24ABD5C2488445BED7387EA7A7265DEC.tmp' to '../../../../../Programming/Coop-Repo/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.11.19-15.40.04:505][204]LogSourceControl: Attempting 'p4 fstat -Or D:/Programming/Coop-Repo/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.11.19-15.40.04:505][204]SourceControl: Path 'D:/Programming/Coop-Repo/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset' is not under client's root 'D:\Workspace'.
+
+[2019.11.19-15.40.04:622][204]LogSavePackage: Moving '../../../../../Programming/Coop-Repo/Saved/ThirdPersonExampleMap_BuiltData67EF7284438AB5997F550581CD694759.tmp' to '../../../../../Programming/Coop-Repo/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
